@@ -37,4 +37,4 @@ https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing/data
 - 문선규 : 고객 정보 분석 / 모델 개발 / 보고서 작성
 - 홍성연 : 보고서 작성 / 전체적인 EDA
 
-![flowchart](https://github.com/Bank-Marketing/Bank-Marketing/blob/main/Flowchart.png?raw=true){: width="100%" height="100%"}
+<img src ="https://github.com/Bank-Marketing/Bank-Marketing/blob/main/Flowchart.png" width="80" height="80"/>
