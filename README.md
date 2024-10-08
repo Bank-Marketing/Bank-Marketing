@@ -24,6 +24,7 @@ https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing/data
     1. 분석 결론을 바탕으로 feature enginnering 진행
     2. Catboost, XGBoost, LightGBM, RandomForest모델을 비교 분석
     3. F1-score을 기준으로 모델 선정
+![flowchart](https://github.com/Bank-Marketing/Bank-Marketing/blob/main/Flowchart.png?raw=true)
 
 
 ## 1.3 사용 된 툴
