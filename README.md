@@ -38,4 +38,4 @@ https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing/data
 - 홍성연 : 보고서 작성 / 전체적인 EDA
 
 ![flowchart](https://github.com/Bank-Marketing/Bank-Marketing/blob/main/Flowchart.png?raw=true)
-
+## 3. 보고서 [링크](https://github.com/Bank-Marketing/Bank-Marketing/blob/main/report.pdf)
